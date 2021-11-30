@@ -1,0 +1,24 @@
+{
+  "name": "31_test_integracion",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "e2e": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rurucode/31_Test_Integracion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rurucode/31_Test_Integracion/issues"
+  },
+  "homepage": "https://github.com/Rurucode/31_Test_Integracion#readme",
+  "devDependencies": {
+    "cypress": "^9.1.0"
+  }
+}
